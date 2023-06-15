@@ -1,0 +1,41 @@
+.header {
+    display: flex;
+    align-items: center;
+    background-color: #3A5F9A;
+    padding: 10px;
+    color: white;
+  }
+  
+  
+  
+  .user-info {
+    margin-left: 10px;
+  }
+  
+  .name {
+    font-weight: bold;
+    font-size: 18px;
+  }
+  
+  .online-status {
+    font-size: 12px;
+  }
+  
+  .timestamp {
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+    font-size: 18px;
+  }
+  
+  .network-icons {
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+    color: white;
+  }
+  
+  .network-icons svg {
+    margin-right: 5px;
+  }
+  
